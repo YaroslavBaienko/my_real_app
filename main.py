@@ -1,6 +1,7 @@
 from classes import *
 from workdb import *
 
+
 def main():
     lst = Listinizer(6, (10, 200))
     result0 = lst.get_list()

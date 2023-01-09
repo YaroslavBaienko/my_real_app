@@ -23,5 +23,3 @@ while True:
     db.commit()
     # else:
     #     print("Такая запись уже имеется")
-
-
